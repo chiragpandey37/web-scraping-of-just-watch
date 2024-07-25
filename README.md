@@ -1,6 +1,4 @@
-Here is the README content again without using a code block:
 
----
 
 # JustWatch Web Scraping Project
 
